@@ -11,7 +11,4 @@ I am web developer based in Edmonton, Alberta. I am passionate about creating vi
 
 ## GitHub Stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevinshu)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=trevinshu)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trevinshu&show_icons=true)    
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevinshu)]
