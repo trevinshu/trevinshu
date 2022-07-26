@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Trevin
 I am web developer based in Edmonton, Alberta. I am passionate about creating visually appealing, responsive & functional web applications/websites. In my free time I like to listen to music & stream movies/television. 
 
-- 🔭 I’m currently working on my portfolio 
+- 🔭 I’m currently learning React & looking for work. 
 - 😄 Pronouns: He/Him 
 
 ## Skills/Tools: 
