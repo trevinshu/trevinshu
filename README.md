@@ -5,7 +5,7 @@ I am a web developer passionate about designing and building user-friendly, resp
 - 😄 Pronouns: He/Him 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/trevinshu/movietvapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)&show_icons=false" alt="movie tv show app"></a>
 </p>
 <p>![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27)
 
