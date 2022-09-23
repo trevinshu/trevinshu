@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Trevin
-I am web developer passionate about designing and building user friendly, responsive, functional and aesthetically pleasing web applications.  
+I am a web developer passionate about designing and building user-friendly, responsive, functional and aesthetically pleasing web applications.  
 
 - 🔭 I’m currently learning React & looking for work. 
 - 😄 Pronouns: He/Him 
