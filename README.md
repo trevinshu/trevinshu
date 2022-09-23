@@ -5,7 +5,7 @@ I am a **`Web Developer`** passionate about designing and building user-friendly
 
 ## 💻 Featured Projects 
 
-<p align="left" display="flex" gap="1rem" >
+<p align="left">
    <a href="https://github.com/trevinshu/movietvapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="movie tv show app"/></a>
    <a href="https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=ESW-Reporting-Portal-Scrubbed&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="ESW Reporting Portal" /></a>
    <a href="https://github.com/trevinshu/recipeapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=recipeapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="recipe app" /></a>
