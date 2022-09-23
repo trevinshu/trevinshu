@@ -23,9 +23,9 @@
 
 <p align="left">
    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=trevinshu&theme=tokyonight"/>
+    <img src="https://streak-stats.demolab.com?user=trevinshu"/>
   </a>
    <a href="https://github.com/anuraghazra/github-readme-stats&theme=tokyonight"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevinshu&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevinshu&layout=compact&theme=tokyonight"/>
    </a>
 </p>
