@@ -1,4 +1,4 @@
-# Hello there 👋, my name is Trevin 
+<h1 align="center">Hello there 👋, my name is Trevin</h1> 
 
 I am a **`Web Developer`** passionate about designing and building user-friendly, responsive, functional and aesthetically pleasing web applications.  
 <hr> 
