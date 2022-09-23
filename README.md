@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Trevin 
+# Hello there 👋, my name is Trevin 
 
 **`Web Developer`**
 
