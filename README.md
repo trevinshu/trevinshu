@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, my name is Trevin</h1> 
 
-<p>I am a **`Web Developer`** passionate about designing and building user-friendly, responsive, functional and aesthetically pleasing web applications. </p>
+<p>I am a <code>Web Developer</code> passionate about designing and building user-friendly, responsive, functional and aesthetically pleasing web applications. </p>
 <hr> 
 
 ## 💻 Featured Projects 
