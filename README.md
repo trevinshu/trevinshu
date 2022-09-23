@@ -22,7 +22,7 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" style="padding-right:10px">
+   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" style="margin-right:10px">
     <img src="https://streak-stats.demolab.com?user=trevinshu&theme=tokyonight"/>
   </a>
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
