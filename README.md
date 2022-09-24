@@ -24,8 +24,6 @@
 
 <br>
 
-## 📲 Contact Me
-
 
 ## 📈 GitHub Stats
 
