@@ -30,7 +30,7 @@
    <img align="left" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
    <img align="left" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ## 📲 Contact Me
 
