@@ -1,9 +1,9 @@
-<h1 align="left">Hello there 👋, my name is Trevin</h1> 
+# Hello there 👋, my name is Trevin
 
 <p>I am a <code>Web Developer</code> passionate about designing and building user-friendly, responsive, functional and aesthetically pleasing web applications. </p>
 <hr> 
 
-<h2 align="left">💻 Featured Projects</h2>
+## 💻 Featured Projects
 
 <p align="left">
    <a href="https://github.com/trevinshu/movietvapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="movie tv show app"/></a> 
@@ -12,18 +12,19 @@
 </p>
 
 
-<h2 align="left">🧰 Skills/Tools</h2>
+## 🧰 Skills/Tools</h2>
 
 <p align="left">
    <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
    <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   
 </p>
 
-<h2 align="left">📲 Contact Me</h2>
+## 📲 Contact Me
 
 
-<h2 align="left">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="left"> 
    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
