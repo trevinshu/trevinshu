@@ -30,8 +30,6 @@
  </p>
  <br /><br />
 
-## 📲 Contact Me
-
 ## 📈 GitHub Stats
 
 <p align="left"> 
