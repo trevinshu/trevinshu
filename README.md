@@ -10,9 +10,9 @@
    <a href="https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=ESW-Reporting-Portal-Scrubbed&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="ESW Reporting Portal" /></a> 
    <a href="https://github.com/trevinshu/recipeapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=recipeapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="recipe app" /></a>
 </p>
+<br /> <br />
 
-
-## 🧰 Languages & Tools/</h2>
+## 🧰 Languages & Tools
 <p>
    <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> 
    <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
