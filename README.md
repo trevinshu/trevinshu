@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> 
+<p align="left"> 
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
        <img src="https://streak-stats.demolab.com?user=trevinshu&theme=tokyonight" style="margin-right:1rem;"/>
      </a>
