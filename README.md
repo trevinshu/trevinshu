@@ -6,10 +6,8 @@
 ## 💻 Featured Projects
 
 <p align="left">
-   <a href="https://github.com/trevinshu/movietvapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="movie tv show app"/></a>
-  
-   <a href="https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=ESW-Reporting-Portal-Scrubbed&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="ESW Reporting Portal" /></a>
-    
+   <a href="https://github.com/trevinshu/movietvapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=movietvapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="movie tv show app"/></a> 
+   <a href="https://github.com/trevinshu/ESW-Reporting-Portal-Scrubbed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=ESW-Reporting-Portal-Scrubbed&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="ESW Reporting Portal" /></a> 
    <a href="https://github.com/trevinshu/recipeapp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=trevinshu&repo=recipeapp&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&show_icons=false" alt="recipe app" /></a>
 </p>
 
@@ -27,7 +25,6 @@
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
        <img src="https://streak-stats.demolab.com?user=trevinshu&theme=tokyonight" style="margin-right:1rem;"/>
      </a>
-   
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevinshu&layout=compact&theme=tokyonight"/>
    </a>
